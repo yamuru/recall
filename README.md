@@ -1,16 +1,7 @@
-# recallapp
+# Recall
 
-A new Flutter project.
+**Recall** — an app in which you can find the translation for english words you heard elsewhere (books, movies, music, etc.). You can store the words you heard and do so called recalls. Created to practice Flutter with BLoC and for self-use. Only supports Russian at the moment.
 
-## Getting Started
+> Recall method — a technique of evaluating memory in terms of the amount of learned material that can be correctly reproduced, as in an essay exam or in reproducing a list of words. Recall can be tested immediately after learning (see immediate recall test) or after various delay intervals. Also called recall test.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
